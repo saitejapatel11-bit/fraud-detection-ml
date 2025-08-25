@@ -1,0 +1,9 @@
+fraud-detection-ml/
+│── data/                 # Sample datasets (synthetic or anonymized)
+│── notebooks/            # Jupyter notebooks with experiments
+│── src/                  # Python ML code
+│   ├── preprocessing.py
+│   ├── model_train.py
+│   ├── model_predict.py
+│── requirements.txt      # Python dependencies
+│── README.md             # Project documentation
